@@ -1,10 +1,13 @@
-Style Ground 🚀
+<h1 align="center" >Style Ground 🚀</h1>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+ React Based Project , 
+ <br/>
 Style Ground is a transformative, mobile-first web development sandbox specifically engineered for aspiring developers who lack access to a laptop. By turning any smartphone into a high-performance coding workstation, this platform bridges the digital divide and makes web foundations accessible to everyone.
 
-📱 The Problem We Solve
+<h3>📱 The Problem We Solve</h3>
 Many brilliant minds are held back simply because they don't own a laptop. Style Ground ensures that a smartphone is the only tool needed to start a professional coding journey.
 
-✨ Key Features
+<h3>✨ Key Features</h3>
 Live-Sync Compiler: Provides immediate visual feedback for HTML, CSS, and JavaScript as you type.
 
 Zero-Setup Interface: Experiment with layouts and logic instantly in your browser without complex environment configurations.
@@ -13,21 +16,21 @@ Learn-by-Doing: A "sandbox" approach that encourages active practice rather than
 
 Optimized for Mobile: A UI designed specifically for small screens to ensure a comfortable coding experience on the go.
 
-🛠️ Built With
+Auto-generative : The Html part will got auto generated if the user is a beginner and just want to learn css. 
+
+<h3>🛠️ Built With</h3>
 React.js - UI Framework
 
 Tailwind CSS - Styling and Responsive Design
 
-GSAP - High-performance animations for a polished mobile experience
-
 Vite - For a fast development environment
 
-🚀 Getting Started
+<h3>🚀 Getting Started</h3>
 Visit the Live Site: https://shazar-styleground.netlify.app/
 
 Choose a Language: Toggle between HTML, CSS, and JavaScript editors.
 
-Use "Or Generate": If you're on a small keyboard, use the generate button to load templates instantly.
+Use "Or Generate" if not wanna code HTML part: If you're on a small keyboard, use the generate button to load templates instantly.
 
 See the Results: Watch the "Output Overview" update in real-time.
 
