@@ -1,8 +1,14 @@
 <h1 align="center" >Style Ground 🚀</h1>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
  React Based Project , 
  <br/>
 Style Ground is a transformative, mobile-first web development sandbox specifically engineered for aspiring developers who lack access to a laptop. By turning any smartphone into a high-performance coding workstation, this platform bridges the digital divide and makes web foundations accessible to everyone.
+
+<h3>📸 ScreenShots</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sintuhazarika555/StyleGround/refs/heads/main/StyleGroundSS/Screenshot%202026-01-17%20180720.png" width="32%" />
+  <img src="https://raw.githubusercontent.com/Sintuhazarika555/StyleGround/refs/heads/main/StyleGroundSS/Screenshot%202026-01-17%20180834.png" width="32%" /> 
+  <img src="https://raw.githubusercontent.com/Sintuhazarika555/StyleGround/refs/heads/main/StyleGroundSS/Screenshot%202026-01-17%20180848.png" width="32%" />
+</p>
 
 <h3>📱 The Problem We Solve</h3>
 Many brilliant minds are held back simply because they don't own a laptop. Style Ground ensures that a smartphone is the only tool needed to start a professional coding journey.
